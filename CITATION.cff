@@ -2,18 +2,18 @@ cff-version: 1.2.0
 message: "If you use this data, please cite it as below."
 type: dataset
 title: "Preliminary study of 330 official GTFS-Realtime vehicle position feeds, October 2026"
-version: "1"
-doi: 10.5281/zenodo.23569115
+version: "1.1"
+doi: 10.5281/zenodo.23569618
 license: CC-BY-4.0
 authors:
   - family-names: Irsad
     given-names: Ibrahim
     affiliation: Bina Nusantara University
-  - family-names: Bangun
-    given-names: Salsabila Rafa Ginta Beru
-    affiliation: Bina Nusantara University
   - family-names: Ahmad
     given-names: Fazila Azizah
+    affiliation: Bina Nusantara University
+  - family-names: Bangun
+    given-names: Salsabila Rafa Ginta Beru
     affiliation: Bina Nusantara University
 repository-code: "https://github.com/Ibrairsyad17/open-transit-data-warehouse-preliminary-study"
 abstract: >-
