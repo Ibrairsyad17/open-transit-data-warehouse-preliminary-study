@@ -1,0 +1,331 @@
+mdb_id,country,provider,url,archive_status,note
+mdb-1646,AT,OVapi,http://gtfs.ovapi.nl/nl/vehiclePositions.pb,none,OVapi archive folder has timetable files only
+tdg-83857,BE,Communauté Urbaine de Dunkerque / Réseau Dk Bus,https://www.data.gouv.fr/api/1/datasets/r/39f7ea92-6ad5-4a02-ad14-4019ce4a8ecb,none,transport.data.gouv.fr backs up timetable files only
+tdg-84122,BE,Syndicat Intercommunal de Mobilité et d'Organisation Urbaine du Valenciennois,https://www.data.gouv.fr/api/1/datasets/r/74975bc9-525c-4ecd-b6cb-d1ca08863ba8,none,transport.data.gouv.fr backs up timetable files only
+mdb-2847,BG,Urban Mobility Center - Sofia Traffic,https://gtfs.sofiatraffic.bg/api/v1/vehicle-positions,public archive,Sofia PT Data on Zenodo (not official: kept by one individual)
+mdb-2497,CA,BC Transit (100 Mile House),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=34,none found,searched BC Transit
+mdb-2517,CA,BC Transit (Central Fraser Valley| Chilliwack| Agassiz-Harrison | Hope),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=13,none found,searched BC Transit
+mdb-2539,CA,BC Transit (Creston Valley),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=16,none found,searched BC Transit
+mdb-2527,CA,BC Transit (Comox Valley Transit System),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=45,none found,searched BC Transit
+mdb-2476,CA,BC Transit (Nanaimo),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=41,none found,searched BC Transit
+mdb-2513,CA,BC Transit (Bulkley-Nechako | Prince George),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=22,none found,searched BC Transit
+mdb-2465,CA,BC Transit (Smithers),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=31,none found,searched BC Transit
+mdb-2559,CA,BC Transit (Powell River),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=29,none found,searched BC Transit
+mdb-1379,CA,BC Transit (Cowichan Valley Regional Transit System),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=10,none found,searched BC Transit
+mdb-2562,CA,BC Transit (South Okanagan-Similkameen),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=15,none found,searched BC Transit
+mdb-2582,CA,BC Transit (West Kootenay Transit System),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=20,none found,searched BC Transit
+mdb-2482,CA,BC Transit (Quesnel),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=32,none found,searched BC Transit
+mdb-2523,CA,BC Transit (Columbia Valley | Cranbrook | Elk Valley | Kimberley),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=21,none found,searched BC Transit
+mdb-2518,CA,BC Transit (Clearwater),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=35,none found,searched BC Transit
+mdb-2570,CA,BC Transit (Sunshine Coast Transit System),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=18,none found,searched BC Transit
+mdb-2491,CA,BC Transit (Mount Waddington),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=17,none found,searched BC Transit
+mdb-2477,CA,BC Transit (Hazelton | Kitimat | Terrace),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=26,none found,searched BC Transit
+mdb-2535,CA,BC Transit (Shuswap | Vernon),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=14,none found,searched BC Transit
+mdb-2578,CA,BC Transit (West Coast),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=51,none found,searched BC Transit
+mdb-2500,CA,BC Transit (Pemberton Valley),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=50,none found,searched BC Transit
+mdb-1378,CA,BC Transit (Campbell River Transit),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=12,none found,searched BC Transit
+mdb-2503,CA,BC Transit (Merritt),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=37,none found,searched BC Transit
+mdb-2494,CA,BC Transit (Ashcroft-Cache-Creek-Clinton),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=38,none found,searched BC Transit
+mdb-1496,CA,Edmonton Transit System,http://gtfs.edmonton.ca/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb,none found,not in the general archives; no local archive searched
+mdb-1382,CA,Barrie Transit,http://www.myridebarrie.ca/gtfs/GTFS_VehiclePositions.pb,none found,not in the general archives; no local archive searched
+mdb-1612,CA,MiWay,https://www.miapp.ca/GTFS_RT/Vehicle/VehiclePositions.pb,none found,not in the general archives; no local archive searched
+mdb-1471,CA,Régie intermunicipale de transport des Collines (Transcollines),http://67.212.79.244:8080/hermes_st_Transcollines/pb/vehiclePositions.pb,none found,not in the general archives; no local archive searched
+mdb-2566,CA,BC Transit (Squamish),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=43,none found,searched BC Transit
+mdb-2574,CA,BC Transit (Victoria Regional Transit System),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=48,none found,searched BC Transit
+mdb-2590,CA,BC Transit (Williams Lake),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=33,none found,searched BC Transit
+mdb-1458,CA,Hamilton Street Railway,https://opendata.hamilton.ca/GTFS-RT/GTFS_VehiclePositions.pb,none found,not in the general archives; no local archive searched
+mdb-1521,CA,Grand River Transit,http://webapps.regionofwaterloo.ca/api/grt-routes/api/vehiclepositions,none found,not in the general archives; no local archive searched
+mdb-2542,CA,BC Transit (Dawson Creek),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=27,none found,searched BC Transit
+mdb-2550,CA,BC Transit (Fort St. John),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=28,none found,searched BC Transit
+mdb-2592,CA,Guelph Transit,https://glphprdtmgtfs.glphtrpcloud.com/tmgtfsrealtimewebservice/vehicle/vehiclepositions.pb,none found,not in the general archives; no local archive searched
+mdb-2546,CA,BC Transit (Port Edward | Prince Rupert),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=23,none found,searched BC Transit
+mdb-2485,CA,BC Transit (Revelstoke),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=36,none found,searched BC Transit
+mdb-2488,CA,BC Transit (Salt Spring Island),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=39,none found,searched BC Transit
+mdb-1445,CA,Saskatoon Transit,http://apps2.saskatoon.ca/app/data/Vehicle/VehiclePositions.pb,none found,not in the general archives; no local archive searched
+mdb-2586,CA,BC Transit (Whistler),https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=44,none found,searched BC Transit
+mdb-2391,CZ,Prazska integrovana doprava (PID),https://api.golemio.cz/v2/vehiclepositions/gtfsrt/vehicle_positions.pb,none found,searched Golemio
+tdg-83714,DE,Fluo Grand Est,https://proxy.transport.data.gouv.fr/resource/fluo-haut-rhin-68-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-82719,DE,Fluo Grand Est,https://proxy.transport.data.gouv.fr/resource/fluo-forbus-forbach-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+mdb-2698,ES,Bilbobus,https://www.euskadi.eus/gtfs-realtime-posicion-autobuses-bilbobus/web01-a2inform/eu/#:~:text=OCTET%2DSTREAM%20%2D%20OCTET%2DSTREAM,none found,not in the general archives; no local archive searched
+mdb-3511,ES,La Regional Vallisoletana S.A,https://enzeyiwpoomhlxmcjivn.supabase.co/functions/v1/gtfs-rt,none found,not in the general archives; no local archive searched
+mdb-3066,ES,dBus (Donostiabus),https://opendata.euskadi.eus/transport/moveuskadi/dbus/gtfsrt_dbus_vehicle_positions.pb,none found,not in the general archives; no local archive searched
+mdb-3058,ES,Metro Bilbao,https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/metro-bilbao-vehicle-positions.pb,none found,not in the general archives; no local archive searched
+mdb-2402,ES,Empresa Municipal de Transportes de Fuenlabrada (EMTF),https://api.control.optibus.co/opendata/v1/gtfs-rt/vehicle-positions?uid=c-5cfcd2d1,none found,not in the general archives; no local archive searched
+mdb-3229,FI,Helsingin seudun liikenne,https://realtime.hsl.fi/realtime/vehicle-positions/v2/hsl,none found,HSL HFP documentation mentions no history
+tdg-80662,FR,ALTERNEO,https://proxy.transport.data.gouv.fr/resource/alterneo-civis-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+mdb-2459,FR,Car Jaune,https://pysae.com/api/v2/groups/car-jaune/gtfs-rt,none found,not in the general archives; no local archive searched
+tdg-83386,FR,Communauté d’Agglomération du Centre Littoral de Guyane,https://www.data.gouv.fr/api/1/datasets/r/16f3e3ea-8527-4a6a-a37e-2b7eb312da51,none,transport.data.gouv.fr backs up timetable files only
+tdg-84178,FR,JVMALIN,https://www.data.gouv.fr/api/1/datasets/r/abf87e83-dde3-4ecb-83ba-3e434ec90251,none,transport.data.gouv.fr backs up timetable files only
+tdg-84209,FR,RENFE VIAJEROS SOCIEDAD MERCANTIL ESTATAL SA,https://www.data.gouv.fr/api/1/datasets/r/cb62a16d-f879-44e6-8e8b-8eafded361b7,none,transport.data.gouv.fr backs up timetable files only
+tdg-84094,FR,Région Occitanie / Pyrénées Méditerranée,https://www.data.gouv.fr/api/1/datasets/r/3a40f4e7-3068-43d2-9cd1-7b33cb0c2fe5,none,transport.data.gouv.fr backs up timetable files only
+tdg-36515,FR,Région Réunion,https://www.data.gouv.fr/api/1/datasets/r/c0a17be1-e89a-48a3-aca1-d8eb8e89a55e,none,transport.data.gouv.fr backs up timetable files only
+tdg-81967,FR,Réseau CARSUD,https://www.data.gouv.fr/api/1/datasets/r/146fe36f-16c5-44bc-ac1a-06c0fedcc4dd,none,transport.data.gouv.fr backs up timetable files only
+tdg-82296,FR,Syndicat mixte Atoumod,https://proxy.transport.data.gouv.fr/resource/atoumod-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-84231,FR,Transdev Chamonix,https://www.data.gouv.fr/api/1/datasets/r/977dbe7b-37a6-447b-ba35-574042301471,none,transport.data.gouv.fr backs up timetable files only
+tdg-81341,FR,Communauté d'Agglomération du Grand Dole,https://proxy.transport.data.gouv.fr/resource/tgd-dole-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-84050,FR,TADAO,https://www.data.gouv.fr/api/1/datasets/r/c4563dcc-f547-489a-b63a-efb4dbb37262,none,transport.data.gouv.fr backs up timetable files only
+tdg-83868,FR,JVMALIN,https://www.data.gouv.fr/api/1/datasets/r/cf98048e-7419-46ec-a1e3-36a34e1e11a9,none,transport.data.gouv.fr backs up timetable files only
+tdg-84138,FR,VICHY COMMUNAUTE,https://proxy.transport.data.gouv.fr/resource/mobivie-vichy-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-82163,FR,STAR,https://proxy.transport.data.gouv.fr/resource/star-rennes-integration-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83285,FR,Syndicat mixte Atoumod,https://proxy.transport.data.gouv.fr/resource/seine-eure-semo-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-81060,FR,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,https://www.data.gouv.fr/api/1/datasets/r/a01c7604-5363-4ac1-83bc-b20acb1d9f86,none,transport.data.gouv.fr backs up timetable files only
+tdg-81998,FR,TLP Mobilités,https://www.data.gouv.fr/api/1/datasets/r/38611abb-fb76-4072-8be9-514fdbc4b13a,none,transport.data.gouv.fr backs up timetable files only
+tdg-40623,FR,Communauté d'Agglomération Hérault Méditerranée,https://www.data.gouv.fr/api/1/datasets/r/7dab24f0-3114-49b9-827d-376d10a4b193,none,transport.data.gouv.fr backs up timetable files only
+tdg-81953,FR,Tempo Bus,https://www.data.gouv.fr/api/1/datasets/r/37b144db-2013-49ff-9a24-b8396f19655d,none,transport.data.gouv.fr backs up timetable files only
+tdg-81300,FR,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,https://www.data.gouv.fr/api/1/datasets/r/64511de6-ed7b-4494-b049-49bf83772f1f,none,transport.data.gouv.fr backs up timetable files only
+tdg-34266,FR,Zenbus,https://www.data.gouv.fr/api/1/datasets/r/afee6b6e-2c3f-4317-9d0a-d70540acf8d8,none,transport.data.gouv.fr backs up timetable files only
+tdg-67732,FR,DiviaMobilités,https://proxy.transport.data.gouv.fr/resource/divia-dijon-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-84157,FR,Carcassonne Agglo,https://proxy.transport.data.gouv.fr/resource/rtca-carcassonne-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83928,FR,Communauté d'Agglomération du Pays de Saint-Omer,https://proxy.transport.data.gouv.fr/resource/mouveo-saint-omer-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83118,FR,Valence Romans Mobilités,https://proxy.transport.data.gouv.fr/resource/citea-valence-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-82783,FR,Réseau beeMob - Transports en commun de l'Agglomération Béziers Méditerranée,https://www.data.gouv.fr/api/1/datasets/r/ed8b8b27-96bd-4e46-b6c7-56b27fd0eb14,none,transport.data.gouv.fr backs up timetable files only
+tdg-83538,FR,Montélibus,https://proxy.transport.data.gouv.fr/resource/montelibus-montelimar-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-81140,FR,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,https://www.data.gouv.fr/api/1/datasets/r/052ae731-ee66-45c0-97f4-bdd29f93cead,none,transport.data.gouv.fr backs up timetable files only
+tdg-83851,FR,Filibus - Chartres Métropole Transports,https://www.data.gouv.fr/api/1/datasets/r/7e4b9d82-0863-4eaa-8051-a1dcf5e086f5,none,transport.data.gouv.fr backs up timetable files only
+tdg-82889,FR,SETRAM,https://proxy.transport.data.gouv.fr/resource/setram-lemans-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-80939,FR,Transdev • Pays de la Loire,https://www.data.gouv.fr/api/1/datasets/r/476d53cd-374b-41b7-b11a-a158cc9abfaa,none,transport.data.gouv.fr backs up timetable files only
+tdg-80710,FR,Ametis,https://proxy.transport.data.gouv.fr/resource/ametis-amiens-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83139,FR,Communauté d'Agglomération Beaune Côte et Sud,https://proxy.transport.data.gouv.fr/resource/beaune-cote-et-bus-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-81512,FR,Eurométropole de Metz,https://proxy.transport.data.gouv.fr/resource/lemet-metz-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83026,FR,Bordeaux Métropole,https://www.data.gouv.fr/api/1/datasets/r/df0af5aa-7f1d-43b3-aa90-39469f8cc65e,none,transport.data.gouv.fr backs up timetable files only
+mdb-2625,FR,Transports Bordeaux Métropole (TBM),https://bdx.mecatran.com/utw/ws/gtfsfeed/vehicles/bordeaux?apiKey=opendata-bordeaux-metropole-flux-gtfs-rt,none found,not in the general archives; no local archive searched
+tdg-84069,FR,Régie de transport Communauté de communes Spelunca-Liamone,https://www.data.gouv.fr/api/1/datasets/r/c854a422-f68a-469b-af72-b35c2d4dc84c,none,transport.data.gouv.fr backs up timetable files only
+tdg-81324,FR,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,https://www.data.gouv.fr/api/1/datasets/r/52f94449-5af7-4553-bcc6-44fc417ebdd2,none,transport.data.gouv.fr backs up timetable files only
+tdg-82677,FR,Métropole Rouen Normandie,https://www.data.gouv.fr/api/1/datasets/r/f5127667-1005-4515-b8d9-a2169ee83097,none,transport.data.gouv.fr backs up timetable files only
+tdg-83297,FR,Métropole Rouen Normandie,https://www.data.gouv.fr/api/1/datasets/r/0da9db94-d181-47b7-ae6f-cafe68014c4f,none,transport.data.gouv.fr backs up timetable files only
+tdg-83298,FR,Métropole Rouen Normandie,https://www.data.gouv.fr/api/1/datasets/r/e28a981d-7f5f-4bd8-a4c1-e74a822f13f8,none,transport.data.gouv.fr backs up timetable files only
+tdg-52918,FR,Vienne Condrieu Agglomération,https://www.data.gouv.fr/api/1/datasets/r/4e87a135-b46e-46b3-8aaa-0233ec3c242a,none,transport.data.gouv.fr backs up timetable files only
+tdg-81335,FR,Réseau moova - Communauté d'Agglomération de Vesoul,https://proxy.transport.data.gouv.fr/resource/moova-vesoul-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-81786,FR,Angers Loire Métropole,https://www.data.gouv.fr/api/1/datasets/r/83582223-990a-452d-ba3d-49f2977d0292,none,transport.data.gouv.fr backs up timetable files only
+tdg-82731,FR,Syndicat mixte Atoumod,https://proxy.transport.data.gouv.fr/resource/transurbain-evreux-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-81036,FR,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,https://www.data.gouv.fr/api/1/datasets/r/87ccbc7d-8793-4c56-8352-822bc40c9dcb,none,transport.data.gouv.fr backs up timetable files only
+tdg-83889,FR,J'ybus,https://proxy.transport.data.gouv.fr/resource/jybus-rumilly-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-67153,FR,Transdev • Normandie,https://www.data.gouv.fr/api/1/datasets/r/ea44be8d-36ef-4aac-b56f-98b78eb54382,none,transport.data.gouv.fr backs up timetable files only
+tdg-80381,FR,Alliance Atlantique,https://www.data.gouv.fr/api/1/datasets/r/68fc6b99-b51c-4a3c-9740-2edbc4a705bf,none,transport.data.gouv.fr backs up timetable files only
+tdg-83743,FR,Le Grand Narbonne Communauté d'Agglomération,https://www.data.gouv.fr/api/1/datasets/r/1fc16ad0-4aef-402d-9faa-da04ddd61fd2,none,transport.data.gouv.fr backs up timetable files only
+tdg-81150,FR,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,https://www.data.gouv.fr/api/1/datasets/r/e6917aac-3de0-456f-8296-385ab4954c9b,none,transport.data.gouv.fr backs up timetable files only
+tdg-83201,FR,Coeur de Flandre Agglo,https://www.data.gouv.fr/api/1/datasets/r/131da43c-d324-4f98-8481-0c7b20327df1,none,transport.data.gouv.fr backs up timetable files only
+tdg-84015,FR,Montluçon Communauté,https://proxy.transport.data.gouv.fr/resource/maelis-montlucon-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83392,FR,Syndicat mixte Atoumod,https://proxy.transport.data.gouv.fr/resource/deepmob-dieppe-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-82095,FR,Transdev GMVA Mobilités • Kicéo,https://proxy.transport.data.gouv.fr/resource/kiceo-vannes-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-84047,FR,Transdev GMVA Mobilités • Kicéo,https://proxy.transport.data.gouv.fr/resource/kiceo-vannes-gtfs-rt?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83319,FR,Métropole Nice Côte d'Azur,https://www.data.gouv.fr/api/1/datasets/r/5f571595-aef1-480f-acde-b9315d9f5f3b,none,transport.data.gouv.fr backs up timetable files only
+tdg-82551,FR,NEMUS (Réseau de transports de Flers Agglo),https://www.data.gouv.fr/api/1/datasets/r/9030bf31-561f-4ed2-b8c4-74e6189e46bf,none,transport.data.gouv.fr backs up timetable files only
+tdg-83843,FR,Grand Bourg Agglomération,https://proxy.transport.data.gouv.fr/resource/rubis-bourg-en-bresse-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-81017,FR,Tout'enbus,https://www.data.gouv.fr/api/1/datasets/r/af576ebf-d3a4-4a0f-b692-8ee580cb1877,none,transport.data.gouv.fr backs up timetable files only
+tdg-84229,FR,Communauté d'agglomération Grand Auch Coeur de Gascogne,https://www.data.gouv.fr/api/1/datasets/r/6974ab10-1b0f-4c59-aec0-9924bccb8dbc,none,transport.data.gouv.fr backs up timetable files only
+tdg-82578,FR,Keolis RIOM,https://proxy.transport.data.gouv.fr/resource/riom-rlv-mobilites-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83365,FR,Auray Quiberon Terre Atlantique,https://www.data.gouv.fr/api/1/datasets/r/db7ab07b-daf3-4423-9884-d8d5c659dd13,none,transport.data.gouv.fr backs up timetable files only
+tdg-83150,FR,Syndicat mixte Atoumod,https://proxy.transport.data.gouv.fr/resource/vikibus-yvetot-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83414,FR,JVMALIN,https://www.data.gouv.fr/api/1/datasets/r/7c58df8c-4c5b-4e2a-ad07-635345745db5,none,transport.data.gouv.fr backs up timetable files only
+tdg-83840,FR,ALEO,https://www.data.gouv.fr/api/1/datasets/r/7c1a4aee-6445-4a2e-90aa-250ade5b9e80,none,transport.data.gouv.fr backs up timetable files only
+tdg-83192,FR,Communauté de Communes Chinon Vienne et Loire,https://www.data.gouv.fr/api/1/datasets/r/8d37ead3-7887-438b-9b0b-e2675d0e3f2c,none,transport.data.gouv.fr backs up timetable files only
+tdg-82273,FR,Sankéo,https://www.data.gouv.fr/api/1/datasets/r/793437a0-d3df-4b77-89d5-72525d49800b,none,transport.data.gouv.fr backs up timetable files only
+tdg-84202,FR,Montpellier Méditerranée Métropole,https://www.data.gouv.fr/api/1/datasets/r/19b807c6-d4fb-4720-90b5-74c1ccc13661,none,transport.data.gouv.fr backs up timetable files only
+tdg-81925,FR,Transp'Or - Pays de l'Or Agglomération,https://proxy.transport.data.gouv.fr/resource/transpor-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-81579,FR,Sète Agglopole Méditerranée,https://www.data.gouv.fr/api/1/datasets/r/b4b32f6f-26c8-4f4e-8253-5ce4d0462392,none,transport.data.gouv.fr backs up timetable files only
+tdg-80699,FR,Tours Métropole Val de Loire,https://www.data.gouv.fr/api/1/datasets/r/02c21efd-d73c-43b5-b653-dc1048e0da94,none,transport.data.gouv.fr backs up timetable files only
+tdg-81543,FR,TCAT - Transports en Commun de l'Agglomération Troyenne,https://www.data.gouv.fr/api/1/datasets/r/98230d13-cccb-4c27-b0bc-d1b9341ca77b,none,transport.data.gouv.fr backs up timetable files only
+mdb-2631,FR,Transports en Commun de l’Agglomération Troyenne (TCAT),http://94.143.218.42:13485/ProfilGtfsRt2_0RSProducer-TCAT/VehiclePosition.pb,none found,not in the general archives; no local archive searched
+tdg-82630,FR,Syndicat mixte Atoumod,https://proxy.transport.data.gouv.fr/resource/moca-caux-austreberthe-gtfs-rt?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-82632,FR,Syndicat mixte Atoumod,https://proxy.transport.data.gouv.fr/resource/moca-caux-austreberthe-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-79015,FR,Zenbus,https://www.data.gouv.fr/api/1/datasets/r/ae8b5fd2-283a-462c-aa34-27e02f6fc4a5,none,transport.data.gouv.fr backs up timetable files only
+tdg-83079,FR,ENVIA,https://www.data.gouv.fr/api/1/datasets/r/8e45727d-487f-4a14-823b-d906d6ebaa43,none,transport.data.gouv.fr backs up timetable files only
+tdg-79742,FR,Transdev Fougères • SURF,https://proxy.transport.data.gouv.fr/resource/surf-fougeres-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-82896,FR,Réseau de transport en commun Le Havre Seine Métropole LiA,https://www.data.gouv.fr/api/1/datasets/r/b12cc05c-940d-4f43-b607-163f4632814e,none,transport.data.gouv.fr backs up timetable files only
+tdg-84038,FR,Réseau de transport en commun Le Havre Seine Métropole LiA,https://www.data.gouv.fr/api/1/datasets/r/d499d5a2-8bba-4862-847a-0423f7d8cf23,none,transport.data.gouv.fr backs up timetable files only
+tdg-81420,FR,Keolis Menton Riviera,https://proxy.transport.data.gouv.fr/resource/zest-menton-riviera-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-81126,FR,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,https://www.data.gouv.fr/api/1/datasets/r/5b42006f-d97b-4f58-9edd-82fd9022efff,none,transport.data.gouv.fr backs up timetable files only
+tdg-82142,FR,Syndicat mixte Atoumod,https://proxy.transport.data.gouv.fr/resource/astrobus-lisieux-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-12600,FR,Zenbus,https://www.data.gouv.fr/api/1/datasets/r/47aa1c93-4868-47da-ae43-e2fcbce3575f,none,transport.data.gouv.fr backs up timetable files only
+tdg-80732,FR,Tango,https://www.data.gouv.fr/api/1/datasets/r/ee857dd3-ef88-4d71-ba0a-31ac996a2ba2,none,transport.data.gouv.fr backs up timetable files only
+tdg-84125,FR,Tango,https://www.data.gouv.fr/api/1/datasets/r/78b3c0a0-6e4f-443d-88f1-325e534f67e6,none,transport.data.gouv.fr backs up timetable files only
+mdb-3466,FR,Tango Bus,http://185.220.72.38:8085/ProfilGtfsRt2_0RSProducer-TANGO/VehiclePosition.pb,none found,not in the general archives; no local archive searched
+tdg-84191,FR,Communauté de Communes Coeur du Var,https://www.data.gouv.fr/api/1/datasets/r/4e0b1b0b-538f-463a-947a-aef63da8eeca,none,transport.data.gouv.fr backs up timetable files only
+tdg-80184,FR,Palmbus,https://proxy.transport.data.gouv.fr/resource/palmbus-cannes-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-74509,FR,Brest métropole,https://proxy.transport.data.gouv.fr/resource/bibus-brest-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83855,FR,Communauté d'Agglomération Lunel Agglo,https://www.data.gouv.fr/api/1/datasets/r/5511d6c1-1454-4045-a2f5-1223f22d7530,none,transport.data.gouv.fr backs up timetable files only
+tdg-10231,FR,Zenbus,https://www.data.gouv.fr/api/1/datasets/r/372463bd-d7b4-4668-a9b5-bd71a28f389d,none,transport.data.gouv.fr backs up timetable files only
+tdg-79036,FR,Communauté d'agglomération Porte de l'Isère,https://www.data.gouv.fr/api/1/datasets/r/120182b0-e338-4917-b2bb-ee37b60de1ba,none,transport.data.gouv.fr backs up timetable files only
+tdg-83748,FR,Quimper Bretagne Occidentale,https://www.data.gouv.fr/api/1/datasets/r/6b7622db-c941-4d85-9856-c0315ddb78e1,none,transport.data.gouv.fr backs up timetable files only
+mdb-3468,FR,Marne Bois Bateau Bus,https://gtfs-rt.infra-hubup.fr/rivercat/vehicle_positions,none found,not in the general archives; no local archive searched
+tdg-82723,FR,Syndicat mixte Atoumod,https://proxy.transport.data.gouv.fr/resource/neva-granville-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83764,FR,Transdev CapAtlantique Mobilités • Lila Presqu'île,https://proxy.transport.data.gouv.fr/resource/lila-presquile-cap-atlantique-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83766,FR,Transdev CapAtlantique Mobilités • Lila Presqu'île,https://proxy.transport.data.gouv.fr/resource/lila-presquile-cap-atlantique-gtfs-rt?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83796,FR,Transdev SMA Mobilités • MAT,https://proxy.transport.data.gouv.fr/resource/mat-st-malo-gtfs-rt?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-82474,FR,Métropole Toulon Provence Méditerranée,https://www.data.gouv.fr/api/1/datasets/r/9fe8291c-2fb2-4f89-b578-282ba05dd999,none,transport.data.gouv.fr backs up timetable files only
+tdg-83924,FR,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,https://www.data.gouv.fr/api/1/datasets/r/abe147f7-a064-43fe-be9e-6f35f5a9597f,none,transport.data.gouv.fr backs up timetable files only
+tdg-83395,FR,CA Luberon Monts de Vaucluse,https://www.data.gouv.fr/api/1/datasets/r/cc043d19-1258-433c-9d55-5c62fef2d038,none,transport.data.gouv.fr backs up timetable files only
+mdb-2405,FR,RLV Mobilités,https://proxy.transport.data.gouv.fr/resource/riom-rlv-mobilites-gtfs-rt-vehicle-position,none,transport.data.gouv.fr backs up timetable files only
+tdg-81312,FR,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,https://www.data.gouv.fr/api/1/datasets/r/f360bd88-af15-4fa0-87f2-b83f9b1e5ffc,none,transport.data.gouv.fr backs up timetable files only
+tdg-15449,FR,Lulu en Bus (Ex. Lunéo),https://www.data.gouv.fr/api/1/datasets/r/0e17b681-e017-46e2-a792-b3b6ead2c06c,none,transport.data.gouv.fr backs up timetable files only
+tdg-81044,FR,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,https://www.data.gouv.fr/api/1/datasets/r/34d40ea1-4514-4280-9d9b-ad94e9991a3d,none,transport.data.gouv.fr backs up timetable files only
+tdg-81122,FR,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,https://www.data.gouv.fr/api/1/datasets/r/973e9d73-3ab8-4e47-9516-cb06b25737d8,none,transport.data.gouv.fr backs up timetable files only
+tdg-81988,FR,Transport du Grand Longwy,https://proxy.transport.data.gouv.fr/resource/tgl-longwy-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-81570,FR,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,https://www.data.gouv.fr/api/1/datasets/r/e42910ec-336a-48de-86ff-1183f0ffb68d,none,transport.data.gouv.fr backs up timetable files only
+tdg-81134,FR,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,https://www.data.gouv.fr/api/1/datasets/r/8c90057e-c516-494b-9e08-67c6841876fe,none,transport.data.gouv.fr backs up timetable files only
+tdg-81626,FR,Communauté d'Agglomération Gap-Tallard-Durance,https://www.data.gouv.fr/api/1/datasets/r/11f653e9-0d6a-4e87-8cda-3069b3c6b441,none,transport.data.gouv.fr backs up timetable files only
+tdg-83860,FR,Communauté de Communes Cœur de Loire,https://www.data.gouv.fr/api/1/datasets/r/60dde12f-09d6-49ec-86c5-300a59119488,none,transport.data.gouv.fr backs up timetable files only
+tdg-82909,FR,Fluo Grand Est,https://proxy.transport.data.gouv.fr/resource/fluo-sel-et-vermois-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83078,FR,Syndicat mixte Atoumod,https://proxy.transport.data.gouv.fr/resource/sngo-vernon-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-82596,FR,Transdev • Bretagne,https://www.data.gouv.fr/api/1/datasets/r/b2bccdd8-ac63-4092-bed5-9431fb38bb5b,none,transport.data.gouv.fr backs up timetable files only
+tdg-25678,FR,Zenbus,https://www.data.gouv.fr/api/1/datasets/r/0057d63f-cf69-4d67-8c44-3c546ec7d403,none,transport.data.gouv.fr backs up timetable files only
+tdg-82549,FR,NEMUS (Réseau de transports de Flers Agglo),https://www.data.gouv.fr/api/1/datasets/r/eff8bfff-3d8d-4264-b443-f8aab1d94909,none,transport.data.gouv.fr backs up timetable files only
+tdg-84081,FR,Martinique Transport,https://www.data.gouv.fr/api/1/datasets/r/6cfa1c1c-43ef-4b55-9cae-b106180eefdb,none,transport.data.gouv.fr backs up timetable files only
+tdg-80723,FR,Région des Pays de la Loire,https://proxy.transport.data.gouv.fr/resource/aleop-pdl-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-83468,FR,Communauté de Communes du Pays des Écrins,https://www.data.gouv.fr/api/1/datasets/r/252fd29f-4a13-4e38-9e9e-6d3c09e9bb5a,none,transport.data.gouv.fr backs up timetable files only
+tdg-84017,FR,Estérel Côte d'Azur Agglomération,https://www.data.gouv.fr/api/1/datasets/r/24e2ecf9-82a3-4bfc-bf86-db6ec81c480f,none,transport.data.gouv.fr backs up timetable files only
+tdg-83523,FR,Syndicat mixte Atoumod,https://www.data.gouv.fr/api/1/datasets/r/fd40ae51-b748-4065-a341-24e888919b11,none,transport.data.gouv.fr backs up timetable files only
+tdg-81290,FR,Syndicat mixte Atoumod,https://proxy.transport.data.gouv.fr/resource/giverny-vernon-gtfs-rt?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-82875,FR,Transdev Var,https://www.data.gouv.fr/api/1/datasets/r/807dd36f-5813-487a-b410-20032bfbe3ad,none,transport.data.gouv.fr backs up timetable files only
+tdg-79746,FR,Armor Argoat Mobilité • Guingamp-Paimpol Mobilité,https://proxy.transport.data.gouv.fr/resource/axeo-guingamp-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-82713,FR,Syndicat mixte Atoumod,https://proxy.transport.data.gouv.fr/resource/hobus-honfleur-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+tdg-81698,FR,Agglo Pays d'Issoire,https://www.data.gouv.fr/api/1/datasets/r/bbc60d61-bf8f-40ec-9e3b-9c040cc2b06e,none,transport.data.gouv.fr backs up timetable files only
+tdg-84088,FR,SPL D'UN POINT A L'AUTRE,https://www.data.gouv.fr/api/1/datasets/r/eb530fc3-b08f-42a2-a669-0eeeeecee32d,none,transport.data.gouv.fr backs up timetable files only
+tdg-81256,FR,Transdev • Bretagne,https://www.data.gouv.fr/api/1/datasets/r/365ca136-0b94-4c28-9931-a812e792e108,none,transport.data.gouv.fr backs up timetable files only
+tdg-84058,FR,Grand Avignon,https://www.data.gouv.fr/api/1/datasets/r/74235bed-95fc-4fa8-ab25-bab7e3c6a6f1,none,transport.data.gouv.fr backs up timetable files only
+tdg-83331,FR,Syndicat Mixte du Bassin d'Alès - Réseau Ales'Y,https://www.data.gouv.fr/api/1/datasets/r/5a854ccb-ef82-4b04-8a35-a26c89bd69d6,none,transport.data.gouv.fr backs up timetable files only
+tdg-12609,FR,Zenbus,https://www.data.gouv.fr/api/1/datasets/r/6a1ef3cc-13cc-4770-a347-f183dc6accd6,none,transport.data.gouv.fr backs up timetable files only
+tdg-8488,FR,Zenbus,https://www.data.gouv.fr/api/1/datasets/r/9b9013ec-4cbb-4f18-b44a-1e94088320a8,none,transport.data.gouv.fr backs up timetable files only
+tdg-8202,FR,Zenbus,https://www.data.gouv.fr/api/1/datasets/r/7dd97f96-2fb2-4647-8498-ef234ed0faaa,none,transport.data.gouv.fr backs up timetable files only
+tdg-40392,FR,Transdev • Centre-Val de Loire,https://www.data.gouv.fr/api/1/datasets/r/8bd532f4-8813-4313-be7c-304b8f8f47a7,none,transport.data.gouv.fr backs up timetable files only
+tdg-81306,FR,Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise,https://www.data.gouv.fr/api/1/datasets/r/189e343b-e3e4-4098-9652-49ef01612924,none,transport.data.gouv.fr backs up timetable files only
+tdg-81808,FR,Communauté de Communes du Sud Corse,https://www.data.gouv.fr/api/1/datasets/r/a792a365-b5bc-48b8-81eb-512e8e83af08,none,transport.data.gouv.fr backs up timetable files only
+tdg-79993,FR,Zenbus,https://www.data.gouv.fr/api/1/datasets/r/1bffdcb5-1839-4725-90da-ca69d1ee05e6,none,transport.data.gouv.fr backs up timetable files only
+tdg-79830,FR,Communauté d'agglomération Le Cotentin,https://www.data.gouv.fr/api/1/datasets/r/c94af528-293f-406f-a96f-bf847bcb252a,none,transport.data.gouv.fr backs up timetable files only
+tdg-52582,FR,Transdev • Pays de la Loire,https://www.data.gouv.fr/api/1/datasets/r/0fbf9dc8-d2db-405d-ade4-fdd04a6f8272,none,transport.data.gouv.fr backs up timetable files only
+tdg-38878,FR,Transdev • Pays de la Loire,https://www.data.gouv.fr/api/1/datasets/r/dd56dfc5-85b6-43f9-8b1b-8eebd4cb2c2e,none,transport.data.gouv.fr backs up timetable files only
+tdg-8598,FR,Zenbus,https://www.data.gouv.fr/api/1/datasets/r/89a81efd-a8f4-4558-9988-9e7c56ab15fe,none,transport.data.gouv.fr backs up timetable files only
+tdg-84090,FR,SPL D'UN POINT A L'AUTRE,https://www.data.gouv.fr/api/1/datasets/r/3577ce0e-7581-455c-81ec-f50008b7d6c0,none,transport.data.gouv.fr backs up timetable files only
+tdg-82186,FR,Transdev Vierzon Mobilités • Le Vib,https://proxy.transport.data.gouv.fr/resource/le-vib-vierzon-gtfs-rt-vehicle-position?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,none,transport.data.gouv.fr backs up timetable files only
+mdb-3484,HU,FlexCom Kommunikációs Kft.,https://gtfs.gpspositions.net/storage/realtime/OROSH_V_ONK/vehicle_positions.pb,none found,not in the general archives; no local archive searched
+mdb-2696,IT,Gruppo Torinese Trasporti,https://percorsieorari.gtt.to.it/das_gtfsrt/vehicle_position.aspx,none found,not in the general archives; no local archive searched
+mdb-3424,IT,Azienda del Consorzio Trasporti Veneziano (ACTV) Automobilistico,https://tpl.actv.it/aut/GTFSRT/vehiclePositions,none found,not in the general archives; no local archive searched
+mdb-3422,IT,Azienda del Consorzio Trasporti Veneziano (ACTV) Navigazione,https://tpl.actv.it/nav/GTFSRT/vehiclePositions,none found,not in the general archives; no local archive searched
+jbda-mie-kotsu-sancochusei-vp,JP,三重交通,https://bus-vision.jp/realtime/chusei_vpos_update_v2.bin,none found,national GTFS Data Repository keeps timetable versions only
+jbda-mie-kotsu-sancoinanki-vp,JP,三重交通,https://bus-vision.jp/realtime/nanki_vpos_update_v2.bin,none found,national GTFS Data Repository keeps timetable versions only
+jbda-naganocity-shiei_noriaibus-vp,JP,長野市,https://realtime.gtfs.info/api/vehicle/F23EA2FD-DAB8-4E7D-AC4F-67E482555472,none found,national GTFS Data Repository keeps timetable versions only
+jbda-chitacity-chita-aiaibus-vp,JP,知多市,https://realtime.gtfs.info/chita/vehicle.pb,none found,national GTFS Data Repository keeps timetable versions only
+odpt-GunmaBus-AllLines-vp,JP,株式会社群馬バス,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_GunmaBus_AllLines_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+odpt-AomoriCity-AllLines-vp,JP,青森市企業局交通部,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_AomoriCity_AllLines_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+jbda-sankobus-sankobus-vp,JP,産交バス,https://km.bus-vision.jp/realtime/sankobus_vpos_update.bin,none found,national GTFS Data Repository keeps timetable versions only
+jbda-tokonamecity-Gruun-vp,JP,常滑市,https://realtime.gtfs.info/gruun/vehicle.pb,none found,national GTFS Data Repository keeps timetable versions only
+odpt-JoshinHire-AllLines-vp,JP,上信ハイヤー株式会社,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_JoshinHire_AllLines_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+odpt-TakasakiCity-yosiibus-vp,JP,高崎市,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TakasakiCity_yosiibus_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+jbda-keisei-transitbus-keiseitransitbus-vp,JP,京成バス千葉ウエスト株式会社,https://s3-ajt-mobusta-gtfs.s3.ap-northeast-1.amazonaws.com/realtime/35/vehicle_position.bin,none found,national GTFS Data Repository keeps timetable versions only
+odpt-KeiseiTransitBus-AllLines-vp,JP,京成バス千葉ウエスト株式会社,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+jbda-toyamacity-jojocommunitybus-vp,JP,富山市,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-jojo/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-yanbaru-expressbus-yanbaru-express-bus-vp,JP,合同会社やんばる急行バス,https://gtfs.yanbaru-bus-navi.com/gtfs-rt/yanbaru/vehicle_position.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-kumagayacity-yuuyuubus-vp,JP,熊谷市,http://kumagaya.bus-go.com/GTFS-RT/encode_vehicle.php,none found,national GTFS Data Repository keeps timetable versions only
+odpt-Kan_etsuTransportation-AllLines-vp,JP,関越交通株式会社,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_Kan_etsuTransportation_AllLines_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+jbda-kaetsunou-kaetsunouhimi-vp,JP,加越能バス,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno_himi/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-chitetsu-chitetsubus-vp,JP,富山地方鉄道,https://gtfs-rt-files.buscatch.jp/toyama/chitetsu/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-manyosen-manyosen-vp,JP,万葉線,https://gtfs-rt-files.buscatch.jp/toyama/manyo_line/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-imizucity-imizushi-vp,JP,射水市,https://gtfs-rt-files.buscatch.jp/toyama/imizu-city/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-komonotown-communitybus-vp,JP,菰野町,https://bus-vision.jp/realtime/komono_vpos_update_v2.bin,none found,national GTFS Data Repository keeps timetable versions only
+odpt-TosadenTraffic-Regularbus-vp,JP,とさでん交通株式会社,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TosadenTraffic_Regularbus_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+odpt-TosaCity-AllLines-vp,JP,土佐市,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TosaCity_AllLines_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+jbda-mie-kotsu-sancoise-vp,JP,三重交通,https://bus-vision.jp/realtime/ise_vpos_update_v2.bin,none found,national GTFS Data Repository keeps timetable versions only
+jbda-mie-kotsu-sancoshima-vp,JP,三重交通,https://bus-vision.jp/realtime/shima_vpos_update_v2.bin,none found,national GTFS Data Repository keeps timetable versions only
+jbda-isecity-communitybus-vp,JP,伊勢市,https://bus-vision.jp/realtime/iseshi_vpos_update_v2.bin,none found,national GTFS Data Repository keeps timetable versions only
+odpt-GunmachuoBus-AllLines-vp,JP,群馬中央バス株式会社,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_GunmachuoBus_AllLines_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+jbda-toyama-asahitown-asahimachibus-vp,JP,富山県朝日町,https://gtfs-rt-files.buscatch.jp/toyama/asahimachi/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-kamiichitown-kamiichi-vp,JP,上市町,https://gtfs-rt-files.buscatch.jp/toyama/kamiichi-town/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-kaetsunou-kaetsunouippan-vp,JP,加越能バス,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-mie-kotsu-sancokuwana-vp,JP,三重交通,https://bus-vision.jp/realtime/kuwana_vpos_update_v2.bin,none found,national GTFS Data Repository keeps timetable versions only
+jbda-kuma-bus-kuma-bus-vp,JP,熊本バス,https://km.bus-vision.jp/realtime/kumabus_vpos_update.bin,none found,national GTFS Data Repository keeps timetable versions only
+jbda-takeyakoutu-takeyakotsu-vp,JP,株式会社タケヤ交通,https://realtime.gtfs.info/takeyakotsu/vehicle.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-kumamotodentetsu-kumamotodentetsu-bus-vp,JP,熊本電鉄,https://km.bus-vision.jp/realtime/dentetsu_vpos_update.bin,none found,national GTFS Data Repository keeps timetable versions only
+jbda-kumamoto-toshibus-kumamoto-toshibus-vp,JP,熊本都市バス,https://km.bus-vision.jp/realtime/toshibus_vpos_update.bin,none found,national GTFS Data Repository keeps timetable versions only
+odpt-TosadenTraffic-Airportbus-vp,JP,とさでん交通株式会社,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TosadenTraffic_Airportbus_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+jbda-nyuzentown-noranmaicar-vp,JP,入善町,https://gtfs-rt-files.buscatch.jp/toyama/nyuzen_noran/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-uozucity-omotenashi-vp,JP,魚津市,https://gtfs-rt-files.buscatch.jp/toyama/uozu_omotenashi/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-kurobecity-ishida-aimoto-vp,JP,黒部市,https://gtfs-rt-files.buscatch.jp/toyama/kurobe_city_bus/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-kurobecity-shinkansenikujisen-vp,JP,黒部市,https://gtfs-rt-files.buscatch.jp/toyama/kurobe_shinkansen/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+odpt-JoshinKankoBus-AllLines-vp,JP,株式会社上信観光バス,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_JoshinKankoBus_AllLines_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+jbda-nagai-unyu-Nagaibus-vp,JP,永井運輸株式会社,https://nagai.nolbe.net/buslocation/VehiclePosition.pb,none found,national GTFS Data Repository keeps timetable versions only
+odpt-NagaiTransportation-AllLines-vp,JP,永井運輸株式会社,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_NagaiTransportation_AllLines_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+jbda-mie-kotsu-sancomatsusaka-vp,JP,三重交通,https://bus-vision.jp/realtime/matsusaka_vpos_update_v2.bin,none found,national GTFS Data Repository keeps timetable versions only
+jbda-owariasahicity-communitybus-vp,JP,尾張旭市,https://gtfs-rt-files.buscatch.jp/owariasahi-city/asapygo/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-mie-kotsu-sancoiga-vp,JP,三重交通,https://bus-vision.jp/realtime/iga_vpos_update_v2.bin,none found,national GTFS Data Repository keeps timetable versions only
+jbda-mie-kotsu-sancoyokkaichi-vp,JP,三重交通,https://bus-vision.jp/realtime/yokkaichi_vpos_update_v2.bin,none found,national GTFS Data Repository keeps timetable versions only
+odpt-KeifukuBus-keifuku_rosen-vp,JP,京福バス株式会社,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeifukuBus_keifuku_rosen_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+odpt-NagoyaHousingCityPlanningBureau-NagoyaSRT_AllLines-vp,JP,名古屋市住宅都市局,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_NagoyaHousingCityPlanningBureau_NagoyaSRT_AllLines_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+odpt-NipponChuoBus-Maebashi_Area-vp,JP,日本中央バス株式会社,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_NipponChuoBus_Maebashi_Area_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+jbda-namerikawacity-norumycar-vp,JP,滑川市,https://gtfs-rt-files.buscatch.jp/toyama/namerikawa-city/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-nantocity-nanbus-vp,JP,南砺市,https://gtfs-rt-files.buscatch.jp/toyama/nanto-city/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-oyabecity-oyabecitybus-vp,JP,小矢部市,https://gtfs-rt-files.buscatch.jp/toyama/oyabe-city/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+odpt-SendaiMunicipal-bus_realtime_information-vp,JP,仙台市交通局,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_SendaiMunicipal_bus_realtime_information_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+jbda-kaetsunou-kaetsunousekaiisan-vp,JP,加越能バス,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno_sekaiisan/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+odpt-TokyoSuginamiCity-GreenSlowMobility-vp,JP,杉並区,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TokyoSuginamiCity_GreenSlowMobility_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+jbda-takaokacity-koueibus-vp,JP,高岡市,https://gtfs-rt-files.buscatch.jp/toyama/takaoka-city/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-tateyamatown-tateyama-vp,JP,立山町,https://gtfs-rt-files.buscatch.jp/toyama/tateyama-town/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+odpt-KiyoseCity-KiyoBus-vp,JP,清瀬市,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KiyoseCity_KiyoBus_vehicle,none found,national GTFS Data Repository keeps timetable versions only
+jbda-tonamicity-tonamishieibasu-vp,JP,砺波市,https://gtfs-rt-files.buscatch.jp/toyama/tonami-city/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-chitetsu-chitetsushinaidensha-vp,JP,富山地方鉄道,https://gtfs-rt-files.buscatch.jp/toyama/chitetsu_tram/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-toyamacity-fuchucommunitybus-vp,JP,富山市,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-fuchu/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-toyamacity-horikawaminamicommunitybus-vp,JP,富山市,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-horikawaminami/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-toyamacity-kurehaikiikibus-vp,JP,富山市,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-kureha/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-toyamacity-maidohayabus-vp,JP,富山市,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-maidohaya/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-toyamacity-mizuhashifureaicommunitybus-vp,JP,富山市,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-mizuhashi/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-toyamacity-oyamacommunitybus-vp,JP,富山市,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-oyama/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-toyamacity-yamadacommunitybus-vp,JP,富山市,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-yamada/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-toyamacity-yatsuocommunitybus-vp,JP,富山市,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-yatsuo/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-tsuchiuracity-tsuchimarubus-vp,JP,土浦市,https://realtime.gtfs.info/tsuchiura/vehicle.pb,none found,national GTFS Data Repository keeps timetable versions only
+jbda-uozucity-junkai-vp,JP,魚津市,https://gtfs-rt-files.buscatch.jp/toyama/uozu_shimin/VehiclePositions.pb,none found,national GTFS Data Repository keeps timetable versions only
+mdb-2340,PL,Zarząd Transportu Publicznego w Krakowie (ZTP Kraków),https://gtfs.ztp.krakow.pl/VehiclePositions_T.pb,none found,not in the general archives; no local archive searched
+mdb-2601,PL,Zarząd Transportu Publicznego w Krakowie (ZTP Kraków),https://gtfs.ztp.krakow.pl/VehiclePositions.pb,none found,not in the general archives; no local archive searched
+mdb-3390,PT,Transportes Metropolitanos de Lisboa,https://go.tmlmobilidade.pt/hub/api/v1/realtime/vehicles/positions/gtfs,none found,not in the general archives; no local archive searched
+mdb-2930,PT,Carris,https://gateway.carris.pt/gateway/gtfs/api/v2.11/GTFS/realtime/vehiclepositions,none found,not in the general archives; no local archive searched
+mdb-3231,UA,Kiev,http://193.23.225.214:732/api/realtime,none found,not in the general archives; no local archive searched
+mdb-2454,US,Valley Regional Transit,https://s3.amazonaws.com/etatransit.gtfs/valleyregionaltransit.etaspot.net/position_updates.pb,none found,not in the general archives; no local archive searched
+mdb-2227,US,Emery Go-Round,https://emerygoround.tripshot.com/v1/gtfs/realtime/feed/egr?types=VehiclePosition,not public,"may be in Cal-ITP's archive (official, Caltrans), which has no public download; not confirmed"
+mdb-2700,US,Capital District Transportation Authority,http://gtfs.cdta.org:8080/gtfsrealtime/VehiclePositions,none found,not in the general archives; no local archive searched
+mdb-3204,US,El Paso Transportation Authority,https://data.peaktransit.com/gtfsrt/193/VehiclePosition.pb,none found,not in the general archives; no local archive searched
+mdb-2619,US,University of Georgia,https://passio3.com/uga/passioTransit/gtfs/realtime/vehiclePositions,none found,not in the general archives; no local archive searched
+mdb-3195,US,CobbLinc,https://cobb.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition&Debug=True,none found,not in the general archives; no local archive searched
+mdb-1427,US,Capital Metro,https://data.texas.gov/download/eiei-9rpf/application%2Foctet-stream,none found,not in the general archives; no local archive searched
+mdb-2693,US,Kitsap Transit,https://kttracker.com/gtfsrt/vehicles?debug,none found,not in the general archives; no local archive searched
+mdb-2422,US,Connecticut Transit,https://cttprdtmgtfs.ctttrpcloud.com/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb,none found,not in the general archives; no local archive searched
+mdb-3443,US,Shore Transit,https://myride.shoretransit.org/gtfs/GTFS_VehiclePositions.pb,none found,not in the general archives; no local archive searched
+mdb-3475,US,Broward County Transit,https://myride2.broward.org/gtfsrealtime/api/vehiclepositions,none found,not in the general archives; no local archive searched
+mdb-2645,US,Greater Portland Metro Bus,https://gtfsrt.gptd.cadavl.com/ProfilGtfsRt2_0RSProducer-GPTD/VehiclePosition.pb,none found,not in the general archives; no local archive searched
+mdb-2428,US,Butte Regional Transit (B-Line),https://planmyride.blinetransit.com/gtfsrealtime/GTFS_VehiclePositions.pb,none found,not in the general archives; no local archive searched
+mdb-2707,US,South Metro Area Regional Transit (SMART),https://mysmartbus.com/gtfs-rt/vehiclepositions,none found,not in the general archives; no local archive searched
+mdb-2889,US,Champaign-Urbana Mass Transit District,https://gtfs-rt.mtd.org/vehicle-positions,none found,not in the general archives; no local archive searched
+mdb-3077,US,South Bend Public Transportation Corporation,https://passio3.com/transpo/passioTransit/gtfs/realtime/vehiclePositions,none found,not in the general archives; no local archive searched
+mdb-2744,US,ClackCo Connects (Clackamas County),https://passio3.com/clackamas/passioTransit/gtfs/realtime/vehiclePositions,none found,not in the general archives; no local archive searched
+mdb-2747,US,Sandy Area Metro,https://passio3.com/sandyor/passioTransit/gtfs/realtime/vehiclePositions,none found,not in the general archives; no local archive searched
+mdb-2665,US,Transit Authority of River City (TARC),https://tarc.rideralerts.com/InfoPoint/GTFS-realtime.ashx?Type=VehiclePosition,none found,not in the general archives; no local archive searched
+mdb-3060,US,Southeastern Pennsylvania Transportation Authority (SEPTA),https://www3.septa.org/gtfsrt/septarail-pa-us/Vehicle/rtVehiclePosition.pb,public archive,gtfsrt.io (not official: code published by Jarvus Innovations)
+mdb-2897,US,Clovis Transit,https://passio3.com/clovis/passioTransit/gtfs/realtime/vehiclePositions,not public,"may be in Cal-ITP's archive (official, Caltrans), which has no public download; not confirmed"
+mdb-3148,US,Lane Transit District LTD,https://feed.ltd.org/TMGTFSRealTimeWebService/GTFS/google_transit.zip,none found,not in the general archives; no local archive searched
+mdb-3436,US,Monroe County Transportation Authority (MCTA),https://ponytracker.availtec.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition,none found,not in the general archives; no local archive searched
+mdb-2097,US,Metro Transit - City of Madison,https://metromap.cityofmadison.com/gtfsrt/vehicles,public archive,gtfsrt.io (not official: code published by Jarvus Innovations)
+mdb-3199,US,NY Waterway,https://nywaterway.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,none found,not in the general archives; no local archive searched
+mdb-3070,US,Frederick County TransIT,https://passio3.com/frederick/passioTransit/gtfs/realtime/vehiclePositions,none found,not in the general archives; no local archive searched
+mdb-2670,US,Pioneer Valley Transit Authority,https://api.goswift.ly/real-time/pioneer-valley-pvta/gtfs-rt-vehicle-positions,none found,not in the general archives; no local archive searched
+mdb-3074,US,Everett Transit,https://everett.mapstrat.com/current/gtfrealtime_VehiclePositions.bin,none found,not in the general archives; no local archive searched
+tld-6903-vp,US,Bryce Canyon National Park Shuttle,https://brycecanyonshuttle.com/subscriptions/gtfsrt/vehicles.ashx,none found,not in the general archives; no local archive searched
+mdb-3080,US,Cecil Transit,https://passio3.com/cecil/passioTransit/gtfs/realtime/vehiclePositions,none found,not in the general archives; no local archive searched
+mdb-3214,US,Acadia National Park - Island Explorer,https://islandexplorertracker.availtec.com/InfoPoint/GTFS-Realtime.ashx?&Type=VehiclePosition&serverid=0,none found,not in the general archives; no local archive searched
+mdb-3431,US,City-Line Trolley (City of Kokomo),https://drive.google.com/uc?export=download&id=12OWJm28dWakSVM3TnmajNWmUrmcytZPq,none found,not in the general archives; no local archive searched
+tld-6732-vp,US,Rosemead Explorer,https://passio3.com/rosemead/passioTransit/gtfs/realtime/vehiclePositions,not public,"may be in Cal-ITP's archive (official, Caltrans), which has no public download; not confirmed"
+mdb-3458,US,Rogue Valley Transportation District,https://gtfsrt.rvtd.cadavl.com/ProfilGtfsRt2_0RSProducer-RVTD/VehiclePosition.pb,none found,not in the general archives; no local archive searched
+mdb-1921,US,C-TRAN,http://gtfs-rt.c-tran.org/gtfsrealtime/VehiclePostions,none found,not in the general archives; no local archive searched
+mdb-3063,US,Southeastern Pennsylvania Transportation Authority (SEPTA),https://www3.septa.org/gtfsrt/septa-pa-us/Vehicle/rtVehiclePosition.pb,public archive,gtfsrt.io (not official: code published by Jarvus Innovations)
+mdb-2647,US,South Portland,https://api.goswift.ly/real-time/south-portland-transit/gtfs-rt-vehicle-positions,none found,not in the general archives; no local archive searched
+mdb-1910,US,Santa Cruz Metro (SCMTD),https://rt.scmetro.org/gtfsrt/vehicles,not public,"may be in Cal-ITP's archive (official, Caltrans), which has no public download; not confirmed"
+mdb-3168,,BAS.MY Alor Setar,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-alor-setar,none found,searched data.gov.my
+mdb-3174,,BAS.MY Johor Bahru,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-johor,none found,searched data.gov.my
+mdb-3167,,BAS.MY Kangar,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-kangar,none found,searched data.gov.my
+mdb-3169,,BAS.MY Kota Bharu,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-kota-bharu,none found,searched data.gov.my
+mdb-3170,,BAS.MY Kuala Terengganu,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-kuala-terengganu,none found,searched data.gov.my
+mdb-3152,,BAS.MY Kuching,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-kuching,none found,searched data.gov.my
+mdb-3173,,BAS.MY Melaka,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-melaka,none found,searched data.gov.my
+mdb-3171,,BAS.MY Seremban A,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-seremban-a,none found,searched data.gov.my
+mdb-3172,,BAS.MY Seremban B,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-seremban-b,none found,searched data.gov.my
+mdb-3449,,Kecskeméti Kisvasút,https://kecskemetikisvasut.hu/jk-gtfs-rt/vehicle-positions.pb,none found,not in the general archives; no local archive searched
+mdb-3481,,Sivas Belediye Başkanlığı,https://mobilapi.sivas.bel.tr/gtfs/realtime/vehicle-positions.pb,none found,not in the general archives; no local archive searched
+mdb-3452,,TEP PARMA,https://s3.eu-south-1.amazonaws.com/temporeale.cl.tep.pr.it/temporeale/vehicle_positions.pb,none found,not in the general archives; no local archive searched
+mdb-1920,,motionbuscard,http://20.19.98.194:8328/Api/api/gtfs-realtime,none found,not in the general archives; no local archive searched

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "Preliminary study of 330 official GTFS-Realtime vehicle position feeds, October 2026"
+version: "1"
+license: CC-BY-4.0
+authors:
+  - family-names: Irsad
+    given-names: Ibrahim
+    affiliation: Bina Nusantara University
+  - family-names: Bangun
+    given-names: Salsabila Rafa Ginta Beru
+    affiliation: Bina Nusantara University
+  - family-names: Ahmad
+    given-names: Fazila Azizah
+    affiliation: Bina Nusantara University
+repository-code: "https://github.com/Ibrairsyad17/open-transit-data-warehouse-preliminary-study"
+abstract: >-
+  Appendix A of the thesis proposal "Designing and Building a Data Warehouse for Monitoring
+  Public Transport Data Quality Based on GTFS-Realtime with the Kimball Lifecycle Methodology"
+  (Bina Nusantara University, 2026), with the data and scripts behind it. The 330 official,
+  active and keyless GTFS-Realtime vehicle-position feeds of the Mobility Database were
+  downloaded and counted four times in October 2026, and five feeds that looked broken were
+  checked by hand against their agencies' schedules.
+keywords:
+  - GTFS-Realtime
+  - data quality
+  - public transport
+  - Mobility Database
+  - data warehouse
