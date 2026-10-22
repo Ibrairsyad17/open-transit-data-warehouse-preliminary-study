@@ -3,6 +3,7 @@ message: "If you use this data, please cite it as below."
 type: dataset
 title: "Preliminary study of 330 official GTFS-Realtime vehicle position feeds, October 2026"
 version: "1"
+doi: 10.5281/zenodo.23569115
 license: CC-BY-4.0
 authors:
   - family-names: Irsad

@@ -2,7 +2,7 @@
 
 Appendix A of the thesis proposal *Designing and Building a Data Warehouse for Monitoring Public Transport Data Quality Based on GTFS-Realtime with the Kimball Lifecycle Methodology*, by Ibrahim Irsad, Salsabila Rafa Ginta Beru Bangun and Fazila Azizah Ahmad, Bina Nusantara University, 2026, with the data and scripts behind it. The 330 official, active and keyless GTFS-Realtime vehicle-position feeds of the Mobility Database were downloaded and counted four times in October 2026, and five feeds that looked broken were checked by hand against their agencies' schedules.
 
-The appendix, in English in [`appendix-a-en.pdf`](appendix-a-en.pdf) and in Bahasa Indonesia in [`lampiran-a-id.pdf`](lampiran-a-id.pdf), describes the study, what it found, and every file and column here. The same files are archived on Zenodo, with a DOI that is added here once the record is published.
+The appendix, in English in [`appendix-a-en.pdf`](appendix-a-en.pdf) and in Bahasa Indonesia in [`lampiran-a-id.pdf`](lampiran-a-id.pdf), describes the study, what it found, and every file and column here. The same files are archived on Zenodo, at https://doi.org/10.5281/zenodo.23569115.
 
 | File | What it holds |
 |---|---|
@@ -26,7 +26,7 @@ The raw downloads of the runs of 8 and 22 October 2026, which recount to the sam
 
 ## Citing it
 
-Irsad, I., Bangun, S. R. G. B., & Ahmad, F. A. (2026). *Preliminary study of 330 official GTFS-Realtime vehicle position feeds, October 2026* (Version 1) [Data set]. Zenodo.
+Irsad, I., Bangun, S. R. G. B., & Ahmad, F. A. (2026). *Preliminary study of 330 official GTFS-Realtime vehicle position feeds, October 2026* (Version 1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23569115
 
 [`CITATION.cff`](CITATION.cff) gives the same to GitHub's Cite this repository.
 
